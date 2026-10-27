@@ -1,7 +1,7 @@
 # Like-for-Like (LFL) Performance Analysis
 
 ## Summary
-An end-to-end Like-for-Like performance analysis comparing 2026 with 2025 by matching trading days rather than simply comparing calendar dates. The analysis was implemented in Databricks using SQL and organized into Gold-layer tables for Current Year, Previous Year, and LFL comparison. Built during the DataMelon Labs Industry Fellowship.
+An end-to-end Like-for-Like performance analysis comparing 2026 with 2025 by matching trading days rather than simply comparing calendar dates. The analysis was implemented in Databricks using SQL and organized into Gold-layer tables for Current Year, Previous Year, and LFL comparison.
 
 **Tools:** Databricks | SQL | Power BI
 
